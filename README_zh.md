@@ -12,9 +12,8 @@
 [![领英 LinkedIn](https://img.shields.io/badge/LinkedIn-Rumtoo_Machinery-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/recycling-machine)
 
 <br/>
-
-**[English](README.md)** | **[简体中文](README_zh.md)**
-
+🌐 **多语言版本 / Multilingual Versions:**  
+**[English](README.md)** | **[Español](README_es.md)** | **[Русский](README_ru.md)** | **[العربية](README_ar.md)** | **[Français](README_fr.md)** | **[简体中文](README_zh.md)**
 <br/>
 
 [![塑料回收清洗线实景](https://www.recyclemachine.net/wp-content/uploads/2026/01/Plastic-Recycling-Washing-Line-1536x865.webp)](https://www.recyclemachine.net/recycling-washing-systems/)
