@@ -2,7 +2,7 @@
 
 <img src="https://www.recyclemachine.net/wp-content/uploads/2025/03/Rumtoo.webp" alt="Rumtoo Machinery Logo" width="180" />
 
-# [Rumtoo Machinery](https://www.recyclemachine.net/) | [润途机械](https://www.recyclemachine.net/)
+# [Rumtoo Machinery](https://www.recyclemachine.net/)
 ### Premier Plastic Recycling Machinery Manufacturer & Turnkey Engineering Solutions
 
 [![Official Website](https://img.shields.io/badge/Website-recyclemachine.net-005d30?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.recyclemachine.net/)

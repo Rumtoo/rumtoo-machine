@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://www.recyclemachine.net/wp-content/uploads/2025/03/Rumtoo.webp" alt="润途机械 Logo" width="180" />
+<img src="https://www.recyclemachine.net/wp-content/uploads/2025/03/Rumtoo.webp" alt="Rumtoo Machinery Logo" width="180" />
 
-# [润途机械](https://www.recyclemachine.net/) | [Rumtoo Machinery](https://www.recyclemachine.net/)
+# [Rumtoo Machinery](https://www.recyclemachine.net/)
 ### 全球领先的废旧塑料回收清洗设备、撕碎机、破碎机与造粒系统制造商
 
 [![官方网站](https://img.shields.io/badge/官网-recyclemachine.net-005d30?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.recyclemachine.net/)
@@ -25,7 +25,7 @@
 </div>
 
 ## 📌 目录
-- [关于润途机械](#-关于润途机械)
+- [关于 Rumtoo Machinery](#-关于-rumtoo-machinery)
 - [核心亮点与运营数据](#-核心亮点与运营数据)
 - [核心交钥匙整线系统与产品链接](#-核心交钥匙整线系统与产品链接)
   - [1. 塑料回收清洗生产线](#1-塑料回收清洗生产线)
@@ -35,17 +35,17 @@
   - [5. 液压打包机与固废分选系统](#5-液压打包机与固废分选系统)
 - [主要机型规格与适用物料对照表](#-主要机型规格与适用物料对照表)
 - [工程交钥匙落地流程](#-工程交钥匙落地流程)
-- [为什么全球客户选择润途机械](#-为什么全球客户选择润途机械)
+- [为什么全球客户选择 Rumtoo Machinery](#-为什么全球客户选择-rumtoo-machinery)
 - [全球客户真实反馈](#-全球客户真实反馈)
 - [联系我们与工厂考察](#-联系我们与工厂考察)
 
 ---
 
-## 🏢 关于润途机械
+## 🏢 关于 Rumtoo Machinery
 
-**[润途机械（Rumtoo Machinery）](https://www.recyclemachine.net/)** 是一家专注于高端**[塑料回收机械（Plastic Recycling Machinery）](https://www.recyclemachine.net/recycling-machines/)**、**[成套清洗生产线（Washing Lines）](https://www.recyclemachine.net/recycling-washing-systems/)**、**[塑料撕碎机（Shredders）](https://www.recyclemachine.net/plastic-shredders/)**、**[塑料粉碎机（Crushers）](https://www.recyclemachine.net/plastic-crusher/)** 与 **[塑料造粒机（Pelletizers）](https://www.recyclemachine.net/plastic-pelletizers/)** 的专业研发制造与工程集成商。公司坐落于中国塑料机械重镇——江苏省苏州市张家港市，拥有超过 20 年的塑料循环再生装备制造经验，产品远销全球 50 多个国家和地区。
+**[Rumtoo Machinery](https://www.recyclemachine.net/)** 是一家专注于高端**[塑料回收机械（Plastic Recycling Machinery）](https://www.recyclemachine.net/recycling-machines/)**、**[成套清洗生产线（Washing Lines）](https://www.recyclemachine.net/recycling-washing-systems/)**、**[塑料撕碎机（Shredders）](https://www.recyclemachine.net/plastic-shredders/)**、**[塑料粉碎机（Crushers）](https://www.recyclemachine.net/plastic-crusher/)** 与 **[塑料造粒机（Pelletizers）](https://www.recyclemachine.net/plastic-pelletizers/)** 的专业研发制造与工程集成商。公司坐落于中国塑料机械重镇——江苏省苏州市张家港市，拥有超过 20 年的塑料循环再生装备制造经验，产品远销全球 50 多个国家和地区。
 
-在润途，我们深信：**塑料不是垃圾，而是循环利用的宝贵资源**。与市面上一般的轻型设备不同，润途机械专注于攻克**高泥沙、高油脂、重度污染的消费后废塑料（Post-Consumer Scrap）**，为全球客户提供耐磨抗造、产能稳定、出料纯净的高品质回收生产线。
+在 Rumtoo，我们深信：**塑料不是垃圾，而是循环利用的宝贵资源**。与市面上一般的轻型设备不同，Rumtoo Machinery 专注于攻克**高泥沙、高油脂、重度污染的消费后废塑料（Post-Consumer Scrap）**，为全球客户提供耐磨抗造、产能稳定、出料纯净的高品质回收生产线。
 
 ```
 ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
@@ -62,7 +62,7 @@
 | :--- | :--- | :--- |
 | **🏭 制造沉淀** | **20+ 年** | 扎根塑机制造行业，具备深厚的工艺经验与 [成套塑料回收解决方案](https://www.recyclemachine.net/complete-recycling-solutions/) |
 | **🌍 出口布局** | **50+ 个国家与地区** | 设备遍及南北美洲、中东、欧洲、东南亚及非洲地区 |
-| **♻️ 月处理量** | **10,000+ 吨** | 全球合作企业依托润途生产线每月稳定处理回收的废旧塑料总量 |
+| **♻️ 月处理量** | **10,000+ 吨** | 全球合作企业依托 Rumtoo 生产线每月稳定处理回收的废旧塑料总量 |
 | **⚡ 出料纯度** | **最高达 99.8%** | 深度去除标签、泥沙、胶水与杂质，满足食品级或高精纺丝级要求 |
 | **💧 成品含水率** | **< 1.0%** | 高效离心脱水与机械挤干压榨，干燥后可直接进入高速造粒挤出机 |
 | **⏱️ 投资回收期** | **6 - 12 个月** | 优异的整机性价比与极低吨料耗电量，助力客户快速回本盈利 |
@@ -215,28 +215,28 @@ flowchart LR
 
 ---
 
-## 🏆 为什么全球客户选择润途机械
+## 🏆 为什么全球客户选择 Rumtoo Machinery
 
 * 🛡️ **专为工业恶劣工况打造**：厚重型抗震机架结构，关键受力部位硬化防磨处理，经久耐用。
 * ⚡ **显著节水节电设计**：闭环循环水流设计配合高效节能驱动电机，大幅降低每吨料加工成本。
 * 🧩 **国际通用一线电气配置**：标配西门子 PLC 触控屏、施耐德低压电气，本地化维护采购备件毫无障碍。
-* 💡 **灵活弹性的投资方案**：无论是单台撕碎/粉碎设备更新，还是投资数百万美元的大型全自动现代化循环回收工厂，润途均能提供匹配预算的最优配置。
+* 💡 **灵活弹性的投资方案**：无论是单台撕碎/粉碎设备更新，还是投资数百万美元的大型全自动现代化循环回收工厂，Rumtoo 均能提供匹配预算的最优配置。
 
 ---
 
 ## 💬 全球客户真实反馈
 
-> *"润途机械的 HDPE 清洗线运行表现极其亮眼，投产后使我们工厂的处理产能直接提升了 30% 以上。工程师团队不仅技术过硬，且售后响应极其敏捷！"*  
+> *"Rumtoo Machinery 的 HDPE 清洗线运行表现极其亮眼，投产后使我们工厂的处理产能直接提升了 30% 以上。工程师团队不仅技术过硬，且售后响应极其敏捷！"*  
 > **— Maria Garcia**, 运营总监, EcoPlast Solutions
 
-> *"惊人的投资回报率！短短 8 个月内，我们工厂就通过回收优质塑料颗粒完全收回了设备投资。润途的远程与现场技术支持团队非常专业值得信赖。"*  
+> *"惊人的投资回报率！短短 8 个月内，我们工厂就通过回收优质塑料颗粒完全收回了设备投资。Rumtoo 的远程与现场技术支持团队非常专业值得信赖。"*  
 > **— Ahmed Hassan**, 首席执行官, Middle East Plastics Ltd
 
 ---
 
 ## 📞 联系我们与工厂考察
 
-热忱欢迎海内外客户莅临江苏张家港润途机械制造工厂实地参观考察，亦可随时与我们预约视频连线技术沟通：
+热忱欢迎海内外客户莅临江苏张家港 Rumtoo 机械制造工厂实地参观考察，亦可随时与我们预约视频连线技术沟通：
 
 * 🌐 **官方网址**: [www.recyclemachine.net](https://www.recyclemachine.net/)
 * 📱 **WhatsApp / 电话**: [+1 (332) 250-1915](https://wa.me/13322501915)
@@ -252,6 +252,6 @@ flowchart LR
 
 <div align="center">
 
-<sub>版权所有 © 2026 [润途机械（Rumtoo Machinery）](https://www.recyclemachine.net/)。保留所有权利。助力全球绿色塑料闭环再生。</sub>
+<sub>版权所有 © 2026 [Rumtoo Machinery](https://www.recyclemachine.net/)。保留所有权利。助力全球绿色塑料闭环再生。</sub>
 
 </div>
