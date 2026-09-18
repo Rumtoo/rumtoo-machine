@@ -13,7 +13,7 @@
 
 <br/>
 🌐 **Languages / Idiomas / Языки / اللغات:**  
-**[English](README.md)** | **[Español](README_es.md)** | **[Русский](README_ru.md)** | **[العربية](README_ar.md)** | **[Français](README_fr.md)** | **[简体中文](README_zh.md)**
+**[English](README.md)** | **[Español](README_es.md)** | **[Deutsch](README_de.md)** | **[Français](README_fr.md)** | **[Italiano](README_it.md)** | **[Nederlands](README_nl.md)** | **[Русский](README_ru.md)** | **[العربية](README_ar.md)** | **[简体中文](README_zh.md)**
 <br/>
 
 [![Plastic Recycling Washing Line](https://www.recyclemachine.net/wp-content/uploads/2026/01/Plastic-Recycling-Washing-Line-1536x865.webp)](https://www.recyclemachine.net/recycling-washing-systems/)

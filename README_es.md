@@ -14,7 +14,7 @@
 <br/>
 
 🌐 **Idiomas / Languages:**  
-**[English](README.md)** | **[Español](README_es.md)** | **[Русский](README_ru.md)** | **[العربية](README_ar.md)** | **[Français](README_fr.md)** | **[简体中文](README_zh.md)**
+**[English](README.md)** | **[Español](README_es.md)** | **[Deutsch](README_de.md)** | **[Français](README_fr.md)** | **[Italiano](README_it.md)** | **[Nederlands](README_nl.md)** | **[Русский](README_ru.md)** | **[العربية](README_ar.md)** | **[简体中文](README_zh.md)**
 
 <br/>
 
